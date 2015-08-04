@@ -4,7 +4,7 @@ Donate link: none
 Tags: new blog templates, prosites, wpmudev
 Requires at least: 4.2.2
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -52,10 +52,16 @@ You can modify the template assigned to a level in the fifth column and click on
 
 == Changelog ==
 
+= 1.1 =
+* Readme file.
+
 = 1.0 =
 * First release.
 
 == Upgrade Notice ==
+
+= 1.1 =
+Readme file.
 
 = 1.0 =
 This is the first release.
