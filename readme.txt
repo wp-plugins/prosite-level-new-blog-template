@@ -13,7 +13,7 @@ This plugin replaces Prosite Merge New Blog Template with a better name
 
 == Description ==
 
-With the Prosite Merge New Blog Template you can allocate New Blog Templates to Pro Sites levels. The user who register choose a level and a template is automatically chosen. Prosite Merge New Blog Template works with New Blog Templates plugin from WPMUDEV and Pro Sites plugin from WPMUDEV. Pre Made Blog Template can be easily assigned to each Level at the sign up easily.
+With the Prosite Level New Blog Template you can allocate New Blog Templates to Pro Sites levels. The user who register choose a level and a template is automatically chosen. Prosite Level New Blog Template works with New Blog Templates plugin from WPMUDEV and Pro Sites plugin from WPMUDEV. Pre Made Blog Template can be easily assigned to each Level at the sign up easily.
 
 This is an add-on to the beautiful plugins New Blog Templates and Pro Sites levels from WPMUDEV (you need those first). If If something is broken, don't blame them.  See [http://wpmudev.com](http://wpmudev.com) for the official, original plugins.
 
@@ -25,18 +25,18 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload the prosite-merge-new-blog-template folder to the `/wp-content/plugins/` directory
+1. Upload the prosite-level-new-blog-template folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 
-= Do I need the New Blog Templates and Pro Sites to make the Prosite Merge New Blog Template working =
+= Do I need the New Blog Templates and Pro Sites to make the Prosite Level New Blog Template working =
 
 Yes.
 
 = How to map a template and a level? =
 
-In the dashboard of the main site go to the Prosite Merge New Blog Template menu.
+In the dashboard of the main site go to the Prosite Level New Blog Template menu.
 The first column displays the level id from Pro Sites.
 The second column displays the level name from Pro Sites.
 The third column displays the template id from New Blog Templates.
